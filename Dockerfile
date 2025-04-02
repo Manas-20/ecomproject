@@ -1,10 +1,18 @@
+# Use a lightweight JDK base image
 FROM eclipse-temurin:21-jdk
 
 # Set working directory
 WORKDIR /app
 
-# Copy Maven dependencies and application source
+# Copy the Maven wrapper and settings
+COPY mvnw .
+COPY .mvn .mvn
+
+# Copy the Maven project files
 COPY pom.xml .
+RUN chmod +x mvnw && ./mvnw dependency:go-offline
+
+# Copy the complete project source
 COPY src ./src
 
 # Build the application
