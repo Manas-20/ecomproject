@@ -1,0 +1,153 @@
+2024-11-24 18:26:14.585684+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:14.856084+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:14.897079+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:14.937079+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:14.984077+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.032078+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.060072+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.092077+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.647085+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.681092+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.731309+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.781314+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.814306+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:15.845310+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.744101+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.772092+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.805081+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.841084+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.883085+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:17.914081+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:18.977397+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.003394+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.030391+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.067395+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.094396+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.116374+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.135386+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:19.155391+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.635957+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.661978+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.689959+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.774098+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.834310+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.863314+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.888311+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:20.915327+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.088884+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.117877+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.138881+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.169882+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.200879+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.230885+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.252877+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:25.273879+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.694512+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.720507+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.741499+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.769501+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.800500+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:26:30.829496+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.brand,p1_0.category,p1_0.description,p1_0.image_data,p1_0.image_name,p1_0.image_type,p1_0.name,p1_0.price,p1_0.product_available,p1_0.release_date,p1_0.stock_quantity from product p1_0 [42104-224]
+2024-11-24 18:27:03.478019+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCT" not found (this database is empty); SQL statement:
+insert into product (brand,category,description,image_data,image_name,image_type,name,price,product_available,release_date,stock_quantity,id) values (?,?,?,?,?,?,?,?,?,?,?,default) [42104-224]
