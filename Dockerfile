@@ -4,19 +4,20 @@ FROM eclipse-temurin:21-jdk
 # Set working directory
 WORKDIR /app
 
-# Copy the Maven wrapper and settings
-COPY mvnw .
-COPY .mvn .mvn
+# Install Maven
+RUN apt-get update && apt-get install -y maven
 
 # Copy the Maven project files
 COPY pom.xml .
-RUN chmod +x mvnw && ./mvnw dependency:go-offline
+
+# Download dependencies
+RUN mvn dependency:go-offline
 
 # Copy the complete project source
 COPY src ./src
 
 # Build the application
-RUN ./mvnw clean package -DskipTests
+RUN mvn clean package -DskipTests
 
 # Expose the application port
 EXPOSE 8080
